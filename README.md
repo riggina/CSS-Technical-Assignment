@@ -16,4 +16,4 @@ link netlify (https://riggina-03-display.netlify.app/)
 Web Browser
 
 # Credits
-Riggina Adriani Oceania
+**Riggina Adriani Oceania**
